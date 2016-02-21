@@ -1,7 +1,7 @@
 /*
 alphabet.h
 header file
-made by: Shivam Shekhar
+Made by: Shivam Shekhar
 */
 #include<stdio.h>
 #include<windows.h>
