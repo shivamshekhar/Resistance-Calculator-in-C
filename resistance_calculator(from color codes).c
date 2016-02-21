@@ -1,3 +1,6 @@
+/*
+Made by: Shivam Shekhar
+*/
 #include "alphabet.h"
 void printcol(void);
 long long int power(int,int);
