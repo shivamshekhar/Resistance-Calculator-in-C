@@ -1,3 +1,4 @@
 Resistance Calculator in C
 Library used: windows.h
-Made by: Shivam Shekhar
+Can be used to calculate resistance using color codes
+Made by: Shivam Shekhar 
